@@ -1,11 +1,7 @@
 ## 合成大西瓜
+地址： https://daxigua-master-lilac-three.vercel.app
 
-未修改版源码，可直接在浏览器运行
-
-在线玩：[https://daxigua.liyupi.com](https://daxigua.liyupi.com)
-
-
-### 本地启动
+# 本地启动
 
 1. 安装 serve 工具：
 
